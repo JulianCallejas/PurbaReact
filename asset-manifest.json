@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PurbaReact/static/css/main.073c9b0a.css",
+    "main.js": "/PurbaReact/static/js/main.227bd26d.js",
+    "static/js/787.319676fc.chunk.js": "/PurbaReact/static/js/787.319676fc.chunk.js",
+    "static/media/logo.svg": "/PurbaReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PurbaReact/index.html",
+    "main.073c9b0a.css.map": "/PurbaReact/static/css/main.073c9b0a.css.map",
+    "main.227bd26d.js.map": "/PurbaReact/static/js/main.227bd26d.js.map",
+    "787.319676fc.chunk.js.map": "/PurbaReact/static/js/787.319676fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.227bd26d.js"
+  ]
+}
